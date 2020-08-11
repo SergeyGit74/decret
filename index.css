@@ -39,6 +39,13 @@ button {
 .text1 {
     text-align: center;
 }
-.text {
-    background-color: black;
+
+.cat{
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+body{
+    background-image: url(cat.jpg);
 }
