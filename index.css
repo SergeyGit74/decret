@@ -1,0 +1,44 @@
+.wrapper {
+    padding-top: 0 auto;
+    margin: 0 auto;
+    width: 600px;
+    
+    background-color: #27509e;
+    color:white;
+}
+h1 {
+    
+    text-align: center;
+}
+
+
+input[type=text] {
+    padding: 10px;
+    margin: 10px 0;
+    border: 0;
+    
+    
+}
+button {
+    
+    background-color: #27509e;
+    color: white;
+    border-radius: 5px;
+    
+}
+.forma {
+    display: flex;
+    justify-content: center;
+}
+
+.input {
+    
+    border: 1px solid;
+    margin: 0 auto;
+}
+.text1 {
+    text-align: center;
+}
+.text {
+    background-color: black;
+}
