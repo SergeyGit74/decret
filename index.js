@@ -14,9 +14,9 @@
  };
  
 let btn = gender.addEventListener('click', ()=> {
-    genderout.innerHTML = 'Мальчик';
+    genderout.innerHTML = '<h2>Мальчик</h2>';
 });
 
 let btn1 = name.addEventListener('click', ()=> {
-  nameout.innerHTML = 'Марк';
+  nameout.innerHTML = '<h2>Марк</h2>';
 });
