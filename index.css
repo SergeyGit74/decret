@@ -72,6 +72,7 @@ body{
 }
 
 .div1 {
+    background-color: #41B3A3 ;
     display: table-cell;
     height: 50px;
     width: 100px;
@@ -87,4 +88,15 @@ body{
 
 .out {
     padding-left: 30px;
+}
+.inp{
+    background-color: #41B3A3 ;
+}
+
+h1 {
+    padding: 20px 20px 0px 20px;
+    
+}
+h2 {
+    padding: 0px 20px 0px 50px;
 }
