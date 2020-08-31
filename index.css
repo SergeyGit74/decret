@@ -2,11 +2,21 @@
     padding-top: 0 auto;
     margin: 0 auto;
     width: 600px;
-    margin-top: 100px;
-    
-    background-color: #27509e;
-    color:white;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: #E27D60;
+    color: black;
 }
+.wrapper-2 {
+    padding-top: 0 auto;
+    margin: 0 auto;
+    width: 600px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: #E27D60;
+    color:black;
+}
+
 h1 {
     
     text-align: center;
@@ -22,9 +32,9 @@ input[type=text] {
 }
 button {
     
-    background-color: #27509e;
-    color: white;
-    border-radius: 5px;
+    background-color: #E8A87C;
+    color: black;
+    border-radius: 15px solid #E8A87C;
     
 }
 .forma {
@@ -48,5 +58,29 @@ button {
 }
 
 body{
-    background-image: url(cat.jpg);
+    background-image: url(IMG_8254.JPG);
+    background-position-y: 700px;
+   
+}
+
+
+.output{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+
+}
+
+.div1 {
+    display: table-cell;
+    height: 50px;
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+}
+.btn1{ 
+    height: 30px;
+    width: 100px;
+    border: 1px solid black;
 }
